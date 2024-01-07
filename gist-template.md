@@ -97,4 +97,6 @@ Character classes in regex enable the matching of a range of characters. For exa
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+https://github.com/Haid91/regex-tutorial/tree/main
+
+https://github.com/Haid91/regex-tutorial/blob/main/gist-template.md
